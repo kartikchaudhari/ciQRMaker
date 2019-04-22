@@ -7,6 +7,7 @@
       <li><a href="<?=base_url('qr');?>">Create</a></li>
       <li><a href="<?=base_url('qr/list');?>">List</a></li>
       <li><a href="<?=base_url('qr/decode');?>">Decode</a></li>
+      <li><a href="http://phpqrcode.sourceforge.net/examples/index.php" target="_blank">More Examples</a></li>
     </ul>
   </div>
 </nav>
